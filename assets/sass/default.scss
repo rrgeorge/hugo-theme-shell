@@ -55,6 +55,9 @@ body {
     }
 }
 
+#terminal p {
+    margin-block: 0;
+}
 @keyframes blink {
     0% {
         opacity: 0;
